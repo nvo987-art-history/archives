@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:org="http://www.w3.org/ns/org#"
+>
+
+  <foaf:Organization rdf:about="https://nvo987.fr">
+
+    <foaf:name>
+      NVO987 – Culture Visuelle Moderne et Contemporaine
+    </foaf:name>
+
+    <foaf:homepage rdf:resource="https://nvo987.fr"/>
+
+    <foaf:weblog rdf:resource="https://nvo987.substack.com/"/>
+
+    <foaf:account>
+      <foaf:OnlineAccount>
+        <foaf:accountServiceHomepage
+          rdf:resource="https://github.com/"/>
+        <foaf:accountName>nvo987</foaf:accountName>
+      </foaf:OnlineAccount>
+    </foaf:account>
+
+    <foaf:mbox rdf:resource="mailto:contact@nvo987.fr"/>
+
+    <foaf:member>
+      <foaf:Person rdf:about="https://nvo987.fr/#nicholas-van-orton">
+
+        <foaf:name>Nicholas Van-Orton</foaf:name>
+
+        <foaf:homepage rdf:resource="https://nvo987.fr"/>
+
+      </foaf:Person>
+    </foaf:member>
+
+    <org:hasSite>
+      <org:Site>
+        <org:siteAddress
+          rdf:resource="https://archives.nvo987.fr/"/>
+      </org:Site>
+    </org:hasSite>
+
+  </foaf:Organization>
+
+  <foaf:Document rdf:about="https://archives.nvo987.fr/">
+
+    <dc:title>
+      NVO987 – Archives numériques et ressources documentaires
+    </dc:title>
+
+    <dc:description>
+      Infrastructure numérique de référence regroupant
+      les liens, publications, documents et ressources
+      documentaires associés à NVO987.
+    </dc:description>
+
+    <dc:language>fr-FR</dc:language>
+
+    <dc:publisher rdf:resource="https://nvo987.fr"/>
+
+    <dc:type>Digital Archive</dc:type>
+
+  </foaf:Document>
+
+</rdf:RDF>
