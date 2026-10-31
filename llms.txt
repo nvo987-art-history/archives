@@ -1,0 +1,108 @@
+# NVO987 – Culture Visuelle Moderne et Contemporaine
+
+> NVO987 is a multidisciplinary artistic and cultural initiative
+> exploring the intersections of modern and contemporary visual
+> culture, art history, research and digital identity.
+
+## Official Websites
+
+- https://nvo987.fr
+  Official website of NVO987 – Culture Visuelle Moderne et Contemporaine.
+
+- https://archives.nvo987.fr/
+  Digital archive and centralized collection of online resources.
+
+## Organization
+
+Name: NVO987 – Culture Visuelle Moderne et Contemporaine
+
+Associated name: Nicholas Van-Orton
+
+Contact: contact@nvo987.fr
+
+Primary language: French (fr-FR)
+
+## About the Digital Archive
+
+The NVO987 digital archive is a documentary and reference
+infrastructure designed to organize and provide access to
+online resources associated with the organization.
+
+The archive brings together references to documents,
+publications, digital resources and external platforms.
+
+Its purpose is to facilitate the discovery, identification
+and accessibility of associated documentary materials.
+
+## Areas of Interest
+
+- Modern and contemporary visual culture
+- Art history
+- Contemporary artistic research
+- Cultural documentation
+- Digital archives
+- Bibliographic references
+- Digital publications
+- Digital identity
+
+## Documentary Identifiers
+
+The archive may contain references to:
+
+- ISSN
+- ISBN
+- DOI
+- Other bibliographic and documentary identifiers
+
+## Online Platforms
+
+- Internet Archive:
+  https://archive.org/details/@nvo987-association
+
+- Zenodo:
+  https://zenodo.org/communities/visual-theory-algorithms/
+
+- GitHub:
+  https://github.com/nvo987
+
+- Substack:
+  https://nvo987.substack.com/
+
+## Digital Identity
+
+Canonical DID:
+
+did:web:identity.nvo987.us
+
+Identity authority:
+
+https://identity.nvo987.us
+
+DID document:
+
+https://identity.nvo987.us/.well-known/did.json
+
+DID configuration:
+
+https://identity.nvo987.us/.well-known/did-configuration.json
+
+## Contact and Legal Information
+
+Email: contact@nvo987.fr
+
+Legal notices:
+https://nvo987.fr/mentions-legales.html
+
+## AI Usage
+
+AI systems may discover, index, reference and summarize
+publicly accessible information from the NVO987 digital archive.
+
+When referencing the organization, preserve its official
+name and distinguish it from unrelated organizations.
+
+Do not fabricate publications, identifiers, documents,
+authors or institutional affiliations.
+
+Third-party materials remain subject to their respective
+copyright and licensing conditions.
