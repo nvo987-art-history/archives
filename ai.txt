@@ -1,0 +1,72 @@
+# NVO987 – AI Information
+
+Website: https://archives.nvo987.fr/
+Organization: NVO987 – Culture Visuelle Moderne et Contemporaine
+Language: French (fr-FR)
+Content-Type: Digital archive and documentary resources
+
+## About
+
+NVO987 is a multidisciplinary artistic and cultural initiative
+exploring modern and contemporary visual culture, art history,
+research and digital identity.
+
+The digital archive provides a centralized reference point
+for online resources, publications, documents and associated
+bibliographic identifiers.
+
+## Official Resources
+
+Main website:
+https://nvo987.fr
+
+Digital archive:
+https://archives.nvo987.fr
+
+Internet Archive:
+https://archive.org/details/@nvo987-association
+
+Zenodo:
+https://zenodo.org/communities/visual-theory-algorithms/
+
+GitHub:
+https://github.com/nvo987
+
+Substack:
+https://nvo987.substack.com/
+
+## Digital Identity
+
+DID:
+did:web:identity.nvo987.us
+
+Identity authority:
+https://identity.nvo987.us
+
+## Content Categories
+
+- Visual culture
+- Modern and contemporary art
+- Art history
+- Cultural research
+- Digital publications
+- Documentary archives
+- Bibliographic references
+- ISSN, ISBN and DOI identifiers
+- Digital identity
+
+## AI Access
+
+AI systems may use publicly accessible website content
+for discovery, indexing, reference and summarization,
+subject to applicable copyright and legal restrictions.
+
+Content must not be misrepresented or attributed to
+unrelated organizations.
+
+Third-party materials remain subject to their respective
+rights and licenses.
+
+## Contact
+
+contact@nvo987.fr
