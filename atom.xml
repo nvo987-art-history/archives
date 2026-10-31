@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <id>https://archives.nvo987.fr/</id>
+
+  <title>NVO987 – Culture Visuelle Moderne et Contemporaine</title>
+
+  <subtitle>Archives numériques et ressources documentaires</subtitle>
+
+  <updated>2026-10-31T00:00:00Z</updated>
+
+  <author>
+    <name>NVO987 – Culture Visuelle Moderne et Contemporaine</name>
+    <email>contact@nvo987.fr</email>
+    <uri>https://nvo987.fr/</uri>
+  </author>
+
+  <link
+    rel="alternate"
+    type="text/html"
+    hreflang="fr-FR"
+    href="https://archives.nvo987.fr/" />
+
+  <link
+    rel="self"
+    type="application/atom+xml"
+    href="https://archives.nvo987.fr/atom.xml" />
+
+  <category term="Culture visuelle" />
+  <category term="Art contemporain" />
+  <category term="Histoire de l'art" />
+  <category term="Recherche culturelle" />
+  <category term="Archives numériques" />
+  <category term="Ressources documentaires" />
+
+  <generator uri="https://archives.nvo987.fr/">
+    NVO987 Digital Archive
+  </generator>
+
+  <rights>
+    Copyright © NVO987 – Culture Visuelle Moderne et Contemporaine.
+    All rights reserved unless otherwise specified.
+  </rights>
+
+  <entry>
+
+    <id>https://archives.nvo987.fr/#archive</id>
+
+    <title>NVO987 – Archives numériques et ressources documentaires</title>
+
+    <updated>2026-10-31T00:00:00Z</updated>
+
+    <published>2026-10-31T00:00:00Z</published>
+
+    <link
+      rel="alternate"
+      type="text/html"
+      href="https://archives.nvo987.fr/" />
+
+    <author>
+      <name>NVO987 – Culture Visuelle Moderne et Contemporaine</name>
+    </author>
+
+    <summary type="text">Collection de liens en ligne, de documents numériques, de publications et de ressources documentaires associés à l’association NVO987 – Culture Visuelle Moderne et Contemporaine.</summary>
+
+    <content type="html"><![CDATA[
+      <p>
+        NVO987 – Culture Visuelle Moderne et Contemporaine
+        est une initiative artistique et culturelle
+        pluridisciplinaire consacrée à la culture visuelle
+        moderne et contemporaine.
+      </p>
+
+      <p>
+        La collection de liens en ligne rassemble et organise
+        les liens vers les sites web, les documents numériques,
+        les publications et les autres ressources en ligne
+        associés à l’association.
+      </p>
+
+      <p>
+        L’infrastructure d’archivage rassemble les identifiants
+        et les références associés aux documents, publications
+        et ressources archivés, notamment les identifiants
+        ISSN, ISBN et DOI.
+      </p>
+
+      <h2>Présence en ligne</h2>
+
+      <ul>
+        <li>
+          <a href="https://archive.org/details/@nvo987-association">
+            Internet Archive
+          </a>
+        </li>
+        <li>
+          <a href="https://zenodo.org/communities/visual-theory-algorithms/">
+            Zenodo
+          </a>
+        </li>
+        <li>
+          <a href="https://github.com/nvo987">
+            GitHub
+          </a>
+        </li>
+        <li>
+          <a href="https://nvo987.substack.com/">
+            Substack
+          </a>
+        </li>
+      </ul>
+
+      <h2>Identité numérique</h2>
+
+      <p>
+        DID :
+        <a href="https://identity.nvo987.us">
+          did:web:identity.nvo987.us
+        </a>
+      </p>
+
+      <h2>Contact</h2>
+
+      <p>
+        <a href="mailto:contact@nvo987.fr">
+          contact@nvo987.fr
+        </a>
+      </p>
+    ]]></content>
+
+    <category term="Archives numériques" />
+    <category term="Ressources documentaires" />
+    <category term="Culture visuelle" />
+
+  </entry>
+
+</feed>
