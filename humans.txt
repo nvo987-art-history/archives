@@ -1,0 +1,60 @@
+/* TEAM */
+
+Organization: NVO987 – Culture Visuelle Moderne et Contemporaine
+Associated name: Nicholas Van-Orton
+Contact: contact@nvo987.fr
+Website: https://nvo987.fr
+Archive: https://archives.nvo987.fr/
+
+/* IDENTITY */
+
+DID: did:web:identity.nvo987.us
+Identity authority: https://identity.nvo987.us
+
+/* ONLINE PRESENCE */
+
+Internet Archive: https://archive.org/details/@nvo987-association
+Zenodo: https://zenodo.org/communities/visual-theory-algorithms/
+GitHub: https://github.com/nvo987
+Substack: https://nvo987.substack.com/
+
+/* TECHNOLOGY */
+
+HTML5
+CSS3
+Responsive Web Design
+Semantic HTML
+Open Graph Metadata
+Dublin Core Metadata
+FOAF
+Atom
+RSS
+XML
+Decentralized Identifiers (DID)
+
+/* TYPOGRAPHY */
+
+Inter
+Playfair Display
+
+/* DESIGN */
+
+Editorial
+Minimalist
+Contemporary
+Digital Archiving
+Visual Culture
+
+/* LANGUAGE */
+
+French (fr-FR)
+
+/* PURPOSE */
+
+Digital archives
+Documentary resources
+Visual culture
+Modern and contemporary art
+Art history
+Cultural research
+Digital identity
